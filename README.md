@@ -14,9 +14,9 @@ E com essas informações foram passados exercícios sobre design de lógica
 ## Atividade design de lógica
 Escolhi o **Portugol** Para resolver as atividades
 Estao fixadas no **branch** acima. com os nomes:
--
--
--
+- Saque.por
+- Foto.por
+- Sensor.por
 
 
 
