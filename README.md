@@ -7,5 +7,10 @@ Nessa aula podemos ver como funciona um **fluxograma** e como podemos montar um,
 
 Demos introdução ao Portugol e fizemos algumas atividades que estão no **branch** acima, com os nomes:
 
-- 
+- Dados.por
+- Ola mundo.por
+- Dados cidade.por
+E com essas informações foram passados exercícios sobre design de lógica
+## Atividade design de lógica
+
 
