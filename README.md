@@ -12,5 +12,11 @@ Demos introdução ao Portugol e fizemos algumas atividades que estão no **bran
 - Dados cidade.por
 E com essas informações foram passados exercícios sobre design de lógica
 ## Atividade design de lógica
+Escolhi o **Portugol** Para resolver as atividades
+Estao fixadas no **branch** acima. com os nomes:
+-
+-
+-
+
 
 
