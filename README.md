@@ -1,4 +1,4 @@
-# Aula 2 📓
+# Aula 2 📓 
 ## O mapa da mina (Fluxograma e tomada de decisões) ✏️
 Nessa aula podemos ver como funciona um **fluxograma** e como podemos montar um,pois no **fluxograma** cada símbolo tem um significado, foi passado alguns exemplos de como um funciona, ele é a representação visual de um algoritmo.
 
