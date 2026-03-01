@@ -12,12 +12,14 @@ Nessa aula também demos introdução ao Portugol,aprendemos os primeiros comand
 - Dados cidade.por
 E com essas informações foram passados exercícios sobre design de lógica
 ## Atividade design de lógica
-Escolhi o **Portugol** Para resolver as atividades
+Escolhi o **Portugol** Para resolver as atividades.
+
 Estao fixadas no **branch** acima. com os nomes:
 - Saque2.por
 - Foto.por
 - Sensor.por
-Fazendo os exercicios pude aprender mais alguns códigos e entender mais do funcionamento de um programa.
+
+**Fazendo os exercicios pude aprender mais alguns códigos e entender mais do funcionamento de um programa.**
 
 
 
