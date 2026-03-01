@@ -19,9 +19,11 @@ Estao fixadas no **branch** acima. com os nomes:
 - `Foto.por`
 - `Sensor.por`
 
->Fazendo os exercicios pude aprender mais alguns códigos e entender mais do funcionamento de um programa, como por exemplo o arquivo com nome de `saque2.por` que é basicamente um funcionamento de um caixa eletrônico: 
+>Fazendo os exercicios pude aprender mais alguns códigos e entender mais do funcionamento de um programa, como por exemplo o arquivo com nome de `saque2.por` que é basicamente um funcionamento de um caixa eletrônico:
 
 **A regra era que o caixa sacasse o dinheiro se o saldo fosse suficiente e tinha que subtrair o valor, e se nao fosse suficiente ele avisa para o usuário**
+
+---
 ```Portugol
 programa {
   inteiro saldo
