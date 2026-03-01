@@ -23,7 +23,21 @@ Estao fixadas no **branch** acima. com os nomes:
 
 **A regra era que o caixa sacasse o dinheiro se o saldo fosse suficiente e tinha que subtrair o valor, e se nao fosse suficiente ele avisa para o usuário**
 ```Portugol
-
+programa {
+  inteiro saldo
+  inteiro saque
+  inteiro sobra
+  funcao inicio() {
+    saldo = 5000
+    escreva("seu saldo é de ",saldo, "$")
+    escreva("\nQuanto deseja sacar?")
+    leia(saque)
+    se(saque<saldo)
+    escreva("Notas entregues\nSeu saldo é de:" ,saldo-saque,"$")
+    senao
+    escreva("Saldo insuficiente")
+  }
+}
 
 
 
