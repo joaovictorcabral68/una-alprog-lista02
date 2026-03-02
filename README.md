@@ -26,10 +26,12 @@ Estao fixadas no **branch** acima. com os nomes:
 ---
 ```Portugol
 programa {
+//Variaveis
   inteiro saldo
   inteiro saque
   inteiro sobra
   funcao inicio() {
+//Processamento
     saldo = 5000
     escreva("seu saldo é de ",saldo, "$")
     escreva("\nQuanto deseja sacar?")
@@ -38,6 +40,7 @@ programa {
     escreva("Notas entregues\nSeu saldo é de:" ,saldo-saque,"$")
     senao
     escreva("Saldo insuficiente")
+//Fim do algoritmo
   }
 }
 
